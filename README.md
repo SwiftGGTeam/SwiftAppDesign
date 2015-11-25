@@ -19,3 +19,4 @@
 * 蓝色的 NavgationBar 下边没有分割线
 * 未标注距左右屏幕边缘的均为 15 px
 * TableView 中 Cell 的分割线暂时用灰色`#C7C7C7`（定义时请定义一个别名，以便修改如 cellSeparationLineColor）
+* 除特别说明，字体粗细都为 Light （就是细的）
